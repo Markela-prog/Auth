@@ -1,0 +1,16 @@
+﻿@page "/"
+@using System.Net
+@using BlazorApp1.Data
+
+@inject HttpClient httpClient
+@inject NavigationManager NavigationManager
+
+<button @onclick="ConnectWithGithub">Connect with GitHub</button>
+
+@code {
+    private async Task ConnectWithGithub()
+    {
+        NavigationManager.NavigateTo("https://localhost:7166/login", forceLoad: true);
+    }
+
+}

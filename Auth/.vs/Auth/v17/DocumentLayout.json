@@ -1,0 +1,486 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38E7DA0D-8FCB-411C-B65F-6623D1834A00}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\blazorapp1\\pages\\callback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E7DA0D-8FCB-411C-B65F-6623D1834A00}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E7DA0D-8FCB-411C-B65F-6623D1834A00}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\blazorapp1\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\auth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E7DA0D-8FCB-411C-B65F-6623D1834A00}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\blazorapp1\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E7DA0D-8FCB-411C-B65F-6623D1834A00}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\blazorapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\auth\\db\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|solutionrelative:db\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E7DA0D-8FCB-411C-B65F-6623D1834A00}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\blazorapp1\\data\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E7DA0D-8FCB-411C-B65F-6623D1834A00}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\blazorapp1\\data\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E7DA0D-8FCB-411C-B65F-6623D1834A00}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\blazorapp1\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E7DA0D-8FCB-411C-B65F-6623D1834A00}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\blazorapp1\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E7DA0D-8FCB-411C-B65F-6623D1834A00}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\blazorapp1\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E7DA0D-8FCB-411C-B65F-6623D1834A00}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\blazorapp1\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\auth\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\auth\\githubemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|solutionrelative:githubemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E7DA0D-8FCB-411C-B65F-6623D1834A00}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\blazorapp1\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E7DA0D-8FCB-411C-B65F-6623D1834A00}|..\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\blazorapp1\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\auth\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\auth\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|c:\\users\\markela\\desktop\\paskaitos\\3k2s\\programavimo kalba c#\\2pd\\auth\\auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E76FC7A9-62EA-4FE7-B24F-F07F4F966E39}|Auth.csproj|solutionrelative:auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1.Client\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\Models\\UserData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\Components\\App.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Callback.razor",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Pages\\Callback.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Pages\\Callback.razor",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Pages\\Callback.razor",
+              "RelativeToolTip": "..\\BlazorApp1\\Pages\\Callback.razor",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T17:35:03.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:30:03.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "..\\BlazorApp1\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T19:49:04.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Program.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:26:31.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAJgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:28:23.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\DB\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "DB\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\DB\\MyDbContext.cs",
+              "RelativeToolTip": "DB\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:30:33.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Pages\\Index.razor",
+              "RelativeToolTip": "..\\BlazorApp1\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T17:23:35.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\appsettings.json",
+              "RelativeToolTip": "..\\BlazorApp1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T17:26:59.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Data\\LoginModel.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Data\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Data\\LoginModel.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\Data\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:47:47.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseData.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Data\\ResponseData.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Data\\ResponseData.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Data\\ResponseData.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\Data\\ResponseData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:19:02.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Pages\\FetchData.razor",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Pages\\FetchData.razor",
+              "RelativeToolTip": "..\\BlazorApp1\\Pages\\FetchData.razor",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T17:34:21.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "..\\BlazorApp1\\Pages\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T19:50:19.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\App.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\App.razor",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\App.razor",
+              "RelativeToolTip": "..\\BlazorApp1\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T19:48:57.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Pages\\Counter.razor",
+              "RelativeToolTip": "..\\BlazorApp1\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T18:31:44.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GitHubEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\GitHubEmail.cs",
+              "RelativeDocumentMoniker": "GitHubEmail.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\GitHubEmail.cs",
+              "RelativeToolTip": "GitHubEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:29:10.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:28:50.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Data\\UserData.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Data\\UserData.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\Data\\UserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:25:42.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Data\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\Data\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\Data\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\Data\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:37:35.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:29:21.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\BlazorApp1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\appsettings.json",
+              "RelativeToolTip": "..\\BlazorApp1\\BlazorApp1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T16:53:01.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\Models\\UserData.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\BlazorApp1\\Models\\UserData.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\Models\\UserData.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\BlazorApp1\\Models\\UserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:48:16.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BlazorApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+              "RelativeToolTip": "..\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T16:46:54.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "..\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Home.razor",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T16:47:29.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1.Client\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\BlazorApp1.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1.Client\\Program.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\BlazorApp1.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:53:18.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\BlazorApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\Program.cs",
+              "RelativeToolTip": "..\\BlazorApp1\\BlazorApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:51:23.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\Components\\App.razor",
+              "RelativeDocumentMoniker": "..\\BlazorApp1\\BlazorApp1\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\BlazorApp1\\BlazorApp1\\Components\\App.razor",
+              "RelativeToolTip": "..\\BlazorApp1\\BlazorApp1\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T16:50:32.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:35:30.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T12:27:58.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Auth.csproj",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\Auth.csproj",
+              "RelativeDocumentMoniker": "Auth.csproj",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Programavimo kalba C#\\2pd\\Auth\\Auth.csproj",
+              "RelativeToolTip": "Auth.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T12:28:43.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

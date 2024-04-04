@@ -1,0 +1,66 @@
+﻿@page "/callback"
+@using System.Net
+@using BlazorApp1.Data
+@using Microsoft.JSInterop
+
+@inject HttpClient httpClient
+@inject NavigationManager NavigationManager
+@inject IJSRuntime JSRuntime
+
+<h3>Login was successful</h3>
+
+<p>@githubId</p>
+<p>@name</p>
+<p>@email</p>
+
+<button @onclick="GetData">Get Data</button>
+
+@code {
+    private string name;
+    private string email;
+    private string githubId;
+
+    private async Task GetData()
+    {
+        var cookie = await JSRuntime.InvokeAsync<string>("blazorExtensions.getCookie");
+        httpClient.DefaultRequestHeaders.Add("Cookie", cookie);
+
+        Console.WriteLine($"Cookie: {cookie}"); //null here
+
+
+        var userDataResponse = await httpClient.GetAsync("https://localhost:7166/get-user-data");
+
+        var responseString = await userDataResponse.Content.ReadAsStringAsync();
+        Console.WriteLine(responseString);
+
+        // Parse the response into a ResponseData object
+        var responseData = await userDataResponse.Content.ReadFromJsonAsync<ResponseData>();
+
+        Console.WriteLine($"Id: {responseData.id}");
+        Console.WriteLine($"Name: {responseData.name}");
+        Console.WriteLine($"Email: {responseData.email}");
+
+        // Map the ResponseData object to a UserData object
+        var userData = new UserData
+            {
+                Id = responseData.id != null ? int.Parse(responseData.id) : 0,
+                Name = responseData.name,
+                Email = responseData.email
+            };
+
+        // Update the properties with the user data
+        githubId = userData.Id.ToString();
+        name = userData.Name;
+        email = userData.Email;
+
+        // Create a new user in your database
+        await CreateUserInDatabase(userData);
+
+        // Redirect the user to the home page and display their profile data
+    }
+
+    private async Task CreateUserInDatabase(UserData userData)
+    {
+
+    }
+}
